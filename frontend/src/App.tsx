@@ -54,7 +54,7 @@ function App() {
               <Route exact path="/">
                 <Home />
               </Route>
-              <Route path=" /catalog">
+              <Route path="/catalog">
                 <Product /> 
               </Route>
               <Route path="/orders">
